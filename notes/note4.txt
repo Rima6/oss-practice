@@ -1,0 +1,5 @@
+My Fourth Git Note
+
+The `git add` command stages changes.
+The `git commit` command saves staged changes.
+The `git push` command uploads commits to GitHub.

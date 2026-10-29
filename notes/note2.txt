@@ -1,0 +1,5 @@
+My Second Git Note
+
+A Git repository stores the history of a project.
+A commit records changes to files.
+Each commit has a message describing the changes.

@@ -1,0 +1,5 @@
+My Fifth Git Note
+
+The `git pull` command downloads changes from a remote repository.
+The `git status` command shows the current state of files.
+Always check your changes before committing.

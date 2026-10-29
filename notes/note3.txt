@@ -1,0 +1,5 @@
+My Third Git Note
+
+The working directory contains files you edit.
+The staging area holds changes ready to commit.
+The repository stores committed changes.

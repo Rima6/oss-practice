@@ -1,0 +1,5 @@
+My First Git Note
+
+Git is a version control system.
+It helps track changes in files.
+Git allows us to save and share our work.
