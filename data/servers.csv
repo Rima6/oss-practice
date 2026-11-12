@@ -1,0 +1,7 @@
+server,location,ram_gb,status
+Server-A,Seoul,16,active
+Server-B,Busan,8,active
+Server-C,Incheon,32,active
+Server-D,Daegu,4,inactive
+Server-E,Seoul,64,active
+Server-F,Busan,12,inactive
